@@ -1,0 +1,10 @@
+Useful links
+
+Microsoft Power BI administration documentation: https://learn.microsoft.com/en-us/power-bi/admin/
+Starting point Power BI documentation: https://learn.microsoft.com/en-us/power-bi/
+Melissa Coates governance blogs: https://www.coatesdatastrategies.com/blog-posts
+Nice visualization on Azure storage locations: https://infrastructuremap.microsoft.com/explore
+Power BI monitor Rui Romano: https://github.com/RuiRomano/pbimonitor
+Power BI rest api documentation: https://learn.microsoft.com/en-us/rest/api/power-bi/admin
+
+
